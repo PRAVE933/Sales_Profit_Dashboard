@@ -23,6 +23,11 @@ This project contains two Tableau dashboards designed for data-driven business i
 - Tableau Desktop
 - Sample Superstore dataset
 
+## 📷 Dashboard Screenshot:
+![Profit Dashboard](sales.png)
+![Profit Dashboard](profit.png)
+
+
 ---
 
 ✅ Built as a beginner-friendly data analysis project using interactive visualizations.
